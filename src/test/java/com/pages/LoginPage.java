@@ -70,6 +70,7 @@ public void LoginPage() {
 	click(getBtnLogin());
 	System.out.println("GIT WORKS");
 	System.out.println("Adactin works");
+	System.out.println("=====================");
 }
 
 
