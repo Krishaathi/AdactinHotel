@@ -69,6 +69,7 @@ public void loginWithEnterKey(String username, String password) throws AWTExcept
 public void LoginPage() {
 	click(getBtnLogin());
 	System.out.println("GIT WORKS");
+	System.out.println("Adactin works");
 }
 
 
