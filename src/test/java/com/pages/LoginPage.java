@@ -68,8 +68,6 @@ public void loginWithEnterKey(String username, String password) throws AWTExcept
 }
 public void LoginPage() {
 	click(getBtnLogin());
-	System.out.println("UPDATES");
-	System.out.println("================================================");
 }
 
 
